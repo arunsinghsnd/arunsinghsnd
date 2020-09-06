@@ -31,11 +31,8 @@
 - ⚡ Fun fact: I will stay up late night to talk to folks about Inclusion and Diversity :owl:
 
 [![Twitter: ImArunverto](https://img.shields.io/twitter/follow/ImArunverto?style=social)](https://twitter.com/ImArunverto)
-
-[![Linkedin: Arun Kumar Singh](https://img.shields.io/badge/-arun-singh1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arun-singh1999/)](https://www.linkedin.com/in/arun-singh1999/)
-
+[![Linkedin: ArunKumarSingh](https://img.shields.io/badge/-arun-singh1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arunsingh1999/)](https://www.linkedin.com/in/arun-singh1999/)
 [![GitHub iampawan](https://img.shields.io/github/followers/arunsinghsnd?label=follow&style=social)](https://github.com/arunsinghsnd/)
-
 [![website](https://img.shields.io/badge/PortfolioWebsite-arunkumarsingh.me-2648ff?style=flat-square&logo=firefox)](https://arunkumarsingh.me/)
 
 
@@ -48,19 +45,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Mongodb/Mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-<a href="https://github.com/arunsinghsnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsinghsnd&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/arunsinghsnd">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunsinghsnd&show_icons=true&theme=light&line_height=27" alt="Arun's github stats"/>
-</a>
-<a href="https://github.com/arunsinghsnd/gitinit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arunsinghsnd&repo=gitinit&theme=light" />
-</a>
-
-<div align="center">
 
 ### You're on the right profile if you're looking for a Front End or Full Stack Engineer ✨
 
