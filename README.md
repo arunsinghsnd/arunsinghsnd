@@ -1,4 +1,4 @@
-## Hey, I'm [Arun Kumar Singh!](https://arunkumarsingh.me) 🐥
+## Hey, I'm [Arun Kumar Singh!](https://arunkumarsingh.me)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/ImArunverto">
   <img align="left" alt="Arun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,7 +21,9 @@
 <br/>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<!-- - 🔭 I’m currently working -->
+**Talking about Personal Stuffs:**
+
+ 🔭 I’m currently working Reactjs
 <!-- - 👯 I’m looking to collaborate on . -->
 - 🌱 I’m currently learning MERN Stack. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 - 🤔 I’m looking for a job as a React Developer or Full Stack Developer.
