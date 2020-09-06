@@ -19,7 +19,7 @@
 
 <br/>
 <br/>
-<a href="https://arunkumarsingh.me/" target="_blank"><img align="right" alt="GIF" src="https://github.com/arunsinghsnd/arunsinghsnd/blob/master/ezgif.com-optimize.gif" width="450" height="270" /></a>
+<a href="https://arunkumarsingh.me/" target="_blank"><img align="right" alt="GIF" src="https://github.com/arunsinghsnd/arunsinghsnd/blob/master/ezgif.com-optimize.gif?raw=true" width="450" height="270" /></a>
 
 **Talking about Personal Stuffs:**
 
@@ -29,7 +29,6 @@
 - 🤔 I’m looking for a job as a React Developer or Full Stack Developer.
 - 💬 Ask me about anything between Code and Community 💖
 - 📫 How to reach me:[LinkedIn - @arun-singh1999](https://www.linkedin.com/in/arun-singh1999/)
-- 😄 Pronouns: He/Him 💁‍♂️
 - ⚡ Fun fact: I will stay up late night to talk to folks about Inclusion and Diversity :owl:
 
 [![Twitter: ImArunverto](https://img.shields.io/twitter/follow/ImArunverto?style=social)](https://twitter.com/ImArunverto)
