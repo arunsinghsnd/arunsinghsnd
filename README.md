@@ -48,10 +48,10 @@
 
 
 <a href="https://github.com/arunsinghsnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsinghsnd&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsinghsnd&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/arunsinghsnd">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunsinghsnd&show_icons=true&theme=light&line_height=27" alt="Arun's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunsinghsnd&show_icons=true&theme=dark&line_height=27" alt="Arun's github stats"/>
 </a>
 <div align="center">
 
