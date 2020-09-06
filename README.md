@@ -31,7 +31,7 @@
 - ⚡ Fun fact: I will stay up late night to talk to folks about Inclusion and Diversity :owl:
 
 [![Twitter: ImArunverto](https://img.shields.io/twitter/follow/ImArunverto?style=social)](https://twitter.com/ImArunverto)
-[![Linkedin: ArunkumarSingh](https://img.shields.io/badge/-arun-singh1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arun-singh1999)](https://www.linkedin.com/in/arun-singh1999)
+[![Linkedin: kindavishal](https://img.shields.io/badge/-kindavishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kindavishal/)](https://www.linkedin.com/in/kindavishal/)
 [![GitHub arunsinghsnd](https://img.shields.io/github/followers/arunsinghsnd?label=follow&style=social)](https://github.com/arunsinghsnd)
 [![website](https://img.shields.io/badge/PortfolioWebsite-arunkumarsingh.me-2648ff?style=flat-square&logo=firefox)](https://arunkumarsingh.me/)
 
