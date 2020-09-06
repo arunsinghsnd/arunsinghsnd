@@ -19,7 +19,7 @@
 
 <br/>
 <br/>
-<img align="right" alt="GIF" src="https://github.com/arunsinghsnd/arunsinghsnd/blob/master/ezgif.com-optimize.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/arunsinghsnd/arunsinghsnd/blob/master/ezgif.com-optimize.gif?raw=true" width="450" height="270" />
 
 **Talking about Personal Stuffs:**
 
