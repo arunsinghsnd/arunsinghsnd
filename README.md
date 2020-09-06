@@ -32,7 +32,7 @@
 
 [![Twitter: ImArunverto](https://img.shields.io/twitter/follow/ImArunverto?style=social)](https://twitter.com/ImArunverto)
 [![Linkedin: ArunKumarSingh](https://img.shields.io/badge/-arun-singh1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arunsingh1999/)](https://www.linkedin.com/in/arun-singh1999/)
-[![GitHub iampawan](https://img.shields.io/github/followers/arunsinghsnd?label=follow&style=social)](https://github.com/arunsinghsnd/)
+[![GitHub aarunsingh](https://img.shields.io/github/followers/arunsinghsnd?label=follow&style=social)](https://github.com/arunsinghsnd/)
 [![website](https://img.shields.io/badge/PortfolioWebsite-arunkumarsingh.me-2648ff?style=flat-square&logo=firefox)](https://arunkumarsingh.me/)
 
 
