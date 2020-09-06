@@ -19,7 +19,7 @@
 
 <br/>
 <br/>
-<a href="https://arunkumarsingh/" target="_blank"><img align="right" alt="GIF" src="https://github.com/arunsinghsnd/arunsinghsnd/blob/master/ezgif.com-optimize.gif?raw=true" width="450" height="270" /></a>
+<a href="https://arunkumarsingh.me/" target="_blank"><img align="right" alt="GIF" src="https://github.com/arunsinghsnd/arunsinghsnd/blob/master/ezgif.com-optimize.gif?raw=true" width="450" height="270" /></a>
 
 **Talking about Personal Stuffs:**
 
