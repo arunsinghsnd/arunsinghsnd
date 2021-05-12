@@ -16,16 +16,17 @@
   <img align="left" alt="Arun's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-
 <br/>
 <br/>
 <a href="https://arunkumarsingh.me/" target="_blank"><img align="right" alt="GIF" src="https://github.com/arunsinghsnd/arunsinghsnd/blob/master/ezgif.com-optimize.gif?raw=true" width="450" height="270" /></a>
 
 **Talking about Personal Stuffs:**
 
- 🔭 I’m currently working Reactjs
+🔭 I’m currently working Reactjs
+
 <!-- - 👯 I’m looking to collaborate on . -->
-- 🌱 I’m currently learning MERN Stack. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+
+- 🌱 I’m currently learning MERN Stack. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - 🤔 I’m looking for a job as a React Developer or Full Stack Developer.
 - 💬 Ask me about anything between Code and Community 💖
 - 📫 How to reach me:[LinkedIn - @arun-singh1999](https://www.linkedin.com/in/arun-singh1999/)
@@ -35,8 +36,7 @@
 [![GitHub arunsinghsnd](https://img.shields.io/github/followers/arunsinghsnd?label=follow&style=social)](https://github.com/arunsinghsnd)
 [![website](https://img.shields.io/badge/PortfolioWebsite-arunkumarsingh.me-2648ff?style=flat-square&logo=firefox)](https://arunkumarsingh.me/)
 
-
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -54,6 +54,11 @@
 <a href="https://github.com/arunsinghsnd">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunsinghsnd&show_icons=true&theme=gotham&line_height=27" alt="Arun's github stats"/>
 </a>
+
+## My Github Status 🚀
+
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsinghsnd" />
+
 <div align="center">
 
 ### You're on the right profile if you're looking for a Front End or Full Stack Engineer ✨
