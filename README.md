@@ -59,6 +59,8 @@
 
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsinghsnd" />
 
+![Visitor Count](https://profile-counter.glitch.me/{arunsinghsnd}/count.svg)
+
 <div align="center">
 
 ### You're on the right profile if you're looking for a Front End or Full Stack Engineer ✨
