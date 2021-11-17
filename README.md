@@ -22,12 +22,12 @@
 
 **Talking about Personal Stuffs:**
 
-🔭 I’m currently working Reactjs
+🔭 I’m currently working as Software Engineer at DataGrokr, Bengaluru, India
 
 <!-- - 👯 I’m looking to collaborate on . -->
 
-- 🌱 I’m currently learning MERN Stack. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-- 🤔 I’m looking for a job as a React Developer or Full Stack Developer.
+- 🌱 I’m explopring on full satck Development. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- 🤔 I’m always looking for explorer the JavaScript as much as I can.
 - 💬 Ask me about anything between Code and Community 💖
 - 📫 How to reach me:[LinkedIn - @arun-singh1999](https://www.linkedin.com/in/arun-singh1999/)
 - ⚡ Fun fact: I will stay up late night to talk to folks about Inclusion and Diversity :owl:
