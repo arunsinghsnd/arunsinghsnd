@@ -1,4 +1,4 @@
-## Hey, I'm [Arun Kumar Singh!](https://arunkumarsingh.me)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, I'm [Arun Kumar Singh!](https://arunkumarsingh.netlify.app/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/ImArunverto">
   <img align="left" alt="Arun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -18,7 +18,7 @@
 
 <br/>
 <br/>
-<a href="https://arunkumarsingh.me/" target="_blank"><img align="right" alt="GIF" src="https://github.com/arunsinghsnd/arunsinghsnd/blob/master/ezgif.com-optimize.gif?raw=true" width="450" height="270" /></a>
+<a href="https://arunkumarsingh.netlify.app/" target="_blank"><img align="right" alt="GIF" src="https://github.com/arunsinghsnd/arunsinghsnd/blob/master/ezgif.com-optimize.gif?raw=true" width="450" height="270" /></a>
 
 **Talking about Personal Stuffs:**
 
